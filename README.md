@@ -12,11 +12,10 @@
 
 
 - 🌱 I’m currently learning **Spring Boot**
-
 - 👨‍💻 All of my projects are available at [All Repositories](https://github.com/Swastika-Roy?tab=repositories) 
 - 📫 How to reach me **swastikaroytitu@gmail.com**
   
-![](https://leetcard.jacoblin.cool/soumyajit_2005?ext=heatmap)
+![](https://leetcard.jacoblin.cool/Swastika_Roy?ext=heatmap)
 
 
 
