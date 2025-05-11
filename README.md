@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Swastika Roy</h1>
 <h3 align="center">A  Java  Spring Boot Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leo-soumyajit&label=Profile%20views&color=0e75b6&style=flat" alt="leo-soumyajit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastika-Roy&label=Profile%20views&color=0e75b6&style=flat" alt="Swastika-Roy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo-soumyajit" alt="leo-soumyajit" /></a> </p>
 
