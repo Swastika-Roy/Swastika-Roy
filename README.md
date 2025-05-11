@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Swastika-Roy&label=Profile%20views&color=0e75b6&style=flat" alt="Swastika-Roy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leo-soumyajit" alt="leo-soumyajit" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Swastika-Roy" alt="Swastika-Roy" /></a> </p>
 
 
 
