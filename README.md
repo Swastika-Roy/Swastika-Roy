@@ -33,4 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Swastika-Roy&show_icons=true&theme=tokyonight&title_color=ffffff&cache_seconds=1800&locale=en" alt="swastika-roy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Swastika-Roy&theme=dark" alt="leo-soumyajit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Swastika-Roy&theme=dark" alt="swastika-roy" /></p>
