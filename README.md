@@ -10,7 +10,6 @@
 
 
 
-
 - 🌱 I’m currently learning **Spring Boot**
 - 👨‍💻 All of my projects are available at [All Repositories](https://github.com/Swastika-Roy?tab=repositories) 
 - 📫 How to reach me **swastikaroytitu@gmail.com**
