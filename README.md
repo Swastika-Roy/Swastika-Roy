@@ -24,7 +24,7 @@
 <a href="https://www.linkedin.com/in/swastika-roy-692aa72b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastika-roy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/s.roy_22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leo_soumyajit" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Swastika_Roy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swastika_roy" height="30" width="40" /></a>
-<a href="https://wa.me/8092681269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="swastika-roy" height="30" width="40" /></a>
+<a href="https://wa.me/918092681269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="swastika-roy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
