@@ -17,10 +17,6 @@
   
 ![](https://leetcard.jacoblin.cool/Swastika_Roy?ext=heatmap)
 
-## 🚀 GeeksforGeeks Stats
-![GFG Heatmap](https://raw.githubusercontent.com/Swastika_Roy/gfg-tracker/main/gfg_heatmap.svg)
-
-
 
 
 
