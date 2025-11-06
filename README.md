@@ -21,9 +21,7 @@
 
 ![GFG Heatmap](https://raw.githubusercontent.com/Swastika_Roy/gfg-tracker/main/gfg_heatmap.svg)
 
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-327-green)
-![Current Streak](https://img.shields.io/badge/Current_Streak-15_days-orange)
-![Coding Score](https://img.shields.io/badge/Coding_Score-1800-blue)
+
 
 
 
