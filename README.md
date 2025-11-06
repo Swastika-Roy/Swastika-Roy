@@ -16,11 +16,14 @@
 - 📫 How to reach me **swastikaroytitu@gmail.com**
   
 ![](https://leetcard.jacoblin.cool/Swastika_Roy?ext=heatmap)
+
 ## 🚀 GeeksforGeeks Stats
 
-![GFG Streak](https://https://www.geeksforgeeks.org/user/swastikaf3do//gfg-streak.svg)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-150-brightgreen)
-![Current Streak](https://img.shields.io/badge/Current%20Streak-45%20days-orange)
+![GFG Heatmap](https://raw.githubusercontent.com/Swastika_Roy/gfg-tracker/main/gfg_heatmap.svg)
+
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-327-green)
+![Current Streak](https://img.shields.io/badge/Current_Streak-15_days-orange)
+![Coding Score](https://img.shields.io/badge/Coding_Score-1800-blue)
 
 
 
